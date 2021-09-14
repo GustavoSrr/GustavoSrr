@@ -1,4 +1,16 @@
-# Olá! Eu sou o Gustavo.
-- 🤯 Iniciante no mundo da programação
-- 🧐 Conhecimento em Html, Css, JavaScript
-- 🤓 Estudando React
+# 😄 Olá, eu sou o Gustavo!
+
+> Um iniciante no mundo da programação!
+
+## 🧐 Conhecimento
+- Html
+- Css
+- JavaScript
+
+## 💻 Estudando
+- React
+
+## 🔧 Ferramentas
+- Visual Studio Code
+- Figma
+- Git
