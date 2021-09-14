@@ -1,7 +1,7 @@
 # 😄 Olá, eu sou o Gustavo!
 
 > Um iniciante no mundo da programação!
-
+ 
 ## 🧐 Conhecimento
 - Html
 - Css
@@ -14,3 +14,4 @@
 - Visual Studio Code
 - Figma
 - Git
+---
