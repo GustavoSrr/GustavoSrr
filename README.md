@@ -8,7 +8,7 @@
 - JavaScript
 
 ## 💻 Estudando
-- React
+- React e Next
 
 ## 🔧 Ferramentas
 - Visual Studio Code
