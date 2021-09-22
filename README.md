@@ -14,10 +14,10 @@
 
 ## 🧐 Interesse
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=c9d1d9&color=161b22)](https://www.typescriptlang.org/)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=c9d1d9&color=161b22)
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=c9d1d9&color=161b22)](https://styled-components.com/)
 
 ## 🔧 Ferramentas
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=c9d1d9&color=161b22)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=c9d1d9&color=161b22)](https://www.microsoft.com/pt-br/windows)
 [![Visual Studio Code](https://img.shields.io/badge/VsCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=c9d1d9&color=161b22)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=c9d1d9&color=161b22)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=c9d1d9&color=161b22)](https://www.figma.com/)
