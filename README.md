@@ -22,4 +22,4 @@
 ---
 
 ## 🔗 Links 
-[![Badges](https://img.shields.io/badge/Badges-%23F05033.svg?style=for-the-badge&logo=git&logoColor=c9d1d9&color=161b22)](https://github.com/Ileriayo/markdown-badges)
+[![Badges](https://img.shields.io/badge/Badges-%23F05033.svg?style=for-the-badge&logoColor=c9d1d9&color=161b22)](https://github.com/Ileriayo/markdown-badges)
