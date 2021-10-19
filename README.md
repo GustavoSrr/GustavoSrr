@@ -1,6 +1,4 @@
-# 😄 Olá, eu sou o Gustavo!
-
-> Um iniciante no mundo da programação!
+<h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
  
 ## 🤓 Conhecimento
 [![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=c9d1d9&color=161b22&textColor=red)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -10,11 +8,12 @@
 
 ## 💻 Estudando
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=c9d1d9&color=161b22)](https://reactjs.org/)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=c9d1d9&color=161b22)](https://nextjs.org/)
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=c9d1d9&color=161b22)](https://styled-components.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=c9d1d9&color=161b22)](https://www.typescriptlang.org/)
 
 ## 🧐 Interesse
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=c9d1d9&color=161b22)](https://www.typescriptlang.org/)
-[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=c9d1d9&color=161b22)](https://styled-components.com/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=c9d1d9&color=161b22)](https://reactnative.dev/)
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=c9d1d9&color=161b22)](https://elixir-lang.org/)
 
 ## 🔧 Ferramentas
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=c9d1d9&color=161b22)](https://ubuntu.com/)
@@ -24,4 +23,6 @@
 ---
 
 ## 🔗 Links 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=c9d1d9&color=161b22)](https://instagram.com/gustavossrr)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=c9d1d9&color=161b22)](https://dev.to/gustavosrr)
 [![Badges](https://img.shields.io/badge/Badges-%23F05033.svg?style=for-the-badge&logoColor=c9d1d9&color=161b22)](https://github.com/Ileriayo/markdown-badges)
