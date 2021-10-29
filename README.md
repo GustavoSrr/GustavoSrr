@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
- 
+
+<p align="center" style="color:red">Seja bem vindo(a) ao meu perfil!</p>
+
 ## 🤓 Conhecimento
 [![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=c9d1d9&color=161b22&textColor=red)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=c9d1d9&color=161b22)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -26,3 +28,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=c9d1d9&color=161b22)](https://instagram.com/gustavossrr)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=c9d1d9&color=161b22)](https://dev.to/gustavosrr)
 [![Badges](https://img.shields.io/badge/Badges-%23F05033.svg?style=for-the-badge&logoColor=c9d1d9&color=161b22)](https://github.com/Ileriayo/markdown-badges)
+
+---
